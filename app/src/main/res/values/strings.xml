@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">SpeedConverter</string>
+    <string name="created_by">Made with ❤️ by Marlon Martin.</string>
+    <string name="header_1">Speed</string>
+    <string name="header_2">Converter</string>
+    <string name="convert_btn">Convert</string>
+    <string name="text_input_desc">Value</string>
+    <string name="convert_desc">To</string>
+
+    <string-array name="conversion_units">
+        <item>mph</item>
+        <item>m/s</item>
+        <item>km/h</item>
+    </string-array>
+
+    <string-array name="conversion_unit2">
+        <item>km/h</item>
+        <item>m/s</item>
+        <item>mph</item>
+    </string-array>
+</resources>
